@@ -25,3 +25,8 @@
 03. 크롬 개발자 도구에는 웹 개발에 유용한 패널이 있습ㄴ니다. 이 중 HTML 요소를 검사하는 ___ 패녈과 자바스크립트 코드 파싱 과정을 보며 오류를 디버깅할 수 있는 ____ 패널이 있습니다.
 
 Element, Source
+|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
+|:--------|:--------:|--------:|
+|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
+|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
+|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
