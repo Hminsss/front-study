@@ -1,17 +1,17 @@
 // 연산자
 
 // 대입연산자
-let value = 1; 
-a+=3;
-a-=3;
+let value = 1;
+a += 3;
+a -= 3;
 
 // 산술연산자
-let a = 1 + 2 ; 
+let a = 1 + 2;
 
 // 증감연산자
-console.log(a++) 
-console.log(a)
-console.log(++a)
+console.log(a++);
+console.log(a);
+console.log(++a);
 
 // 논리연산자
 // Not !
@@ -35,18 +35,16 @@ const equals3 = h == i; //true
 const equals4 = h === i; // false
 
 const notEquals = h != i;
-const notEquals2 = h!==i;
+const notEquals2 = h !== i;
 
 const j = 10;
 const k = 20;
 const l = 30;
 
-console.log(a<=b); // true
-
+console.log(a <= b); // true
 
 //문자열 합치기
 const m = '안녕';
 const n = '하세요';
 
-console.log(a+b);
-
+console.log(a + b);
